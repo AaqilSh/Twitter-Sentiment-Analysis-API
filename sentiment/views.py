@@ -1,4 +1,3 @@
-import imp
 from django.shortcuts import render
 from .forms import SentimentForm
 from util.sentiment_analysis import TwitterSentiment
